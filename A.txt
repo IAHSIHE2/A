@@ -1,3 +1,2 @@
-@echo off
-ECHO FUCK OFF
-PAUSE
+echo HHH
+pause
