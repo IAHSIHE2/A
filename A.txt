@@ -4,3 +4,4 @@ set URL=https://github.com/IAHSIHE2/A/blob/main/a.txt
 set NEWNAME=a.exe
 curl -o %NEWNAME% %URL%
 echo downloaded
+pause
